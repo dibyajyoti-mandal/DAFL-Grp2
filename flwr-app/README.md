@@ -1,5 +1,12 @@
 # flwr-app: A Flower / PyTorch app
 
+## Create and activate virtual environment
+
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+
 ## Install dependencies and project
 
 ```bash
